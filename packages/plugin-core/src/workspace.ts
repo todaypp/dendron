@@ -684,19 +684,6 @@ export class DendronExtension implements IDendronExtension {
         const children = await backlinksTreeDataProvider.getChildren();
         children?.forEach((backlink) => {
           expand(backlink);
-
-          if (backlink.refs) {
-            const childBacklinks =
-              backlinksTreeDataProvider.getSecondLevelRefsToBacklinks(
-                backlink.refs
-              );
-
-            if (childBacklinks) {
-              childBacklinks.forEach((b) => {
-                expand(b);
-              });
-            }
-          }
         });
       })
     );
