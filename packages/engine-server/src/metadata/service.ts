@@ -93,6 +93,10 @@ type Metadata = Partial<{
    * tree view item label type
    */
   treeViewItemLabelType: TreeViewItemLabelTypeEnum;
+  /**
+   * When the user first used Daily Journal command
+   */
+  firstDailyJournalTime: number;
 }>;
 
 export enum InactvieUserMsgStatusEnum {
@@ -272,5 +276,9 @@ export class MetadataService {
 
   setTreeViewItemLabelType(labelType: TreeViewItemLabelTypeEnum) {
     this.setMeta("treeViewItemLabelType", labelType);
+  }
+
+  setFirstDailyJournalTime() {
+    this.setMeta("firstDailyJournalTime", Time.now().toSeconds());
   }
 }
