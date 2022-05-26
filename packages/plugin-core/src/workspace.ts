@@ -628,7 +628,7 @@ export class DendronExtension implements IDendronExtension {
           state: "SortByLastUpdated",
         });
 
-        backlinksTreeDataProvider.SortOrder =
+        backlinksTreeDataProvider.sortOrder =
           BacklinkPanelSortOrder.LastUpdated;
       })
     );
@@ -641,7 +641,7 @@ export class DendronExtension implements IDendronExtension {
           state: "SortByPathName",
         });
 
-        backlinksTreeDataProvider.SortOrder = BacklinkPanelSortOrder.PathNames;
+        backlinksTreeDataProvider.sortOrder = BacklinkPanelSortOrder.PathNames;
       })
     );
 
@@ -653,7 +653,7 @@ export class DendronExtension implements IDendronExtension {
           state: "SortByLastUpdated",
         });
 
-        backlinksTreeDataProvider.SortOrder =
+        backlinksTreeDataProvider.sortOrder =
           BacklinkPanelSortOrder.LastUpdated;
       })
     );
@@ -666,7 +666,7 @@ export class DendronExtension implements IDendronExtension {
           state: "SortByPathName",
         });
 
-        backlinksTreeDataProvider.SortOrder = BacklinkPanelSortOrder.PathNames;
+        backlinksTreeDataProvider.sortOrder = BacklinkPanelSortOrder.PathNames;
       })
     );
 

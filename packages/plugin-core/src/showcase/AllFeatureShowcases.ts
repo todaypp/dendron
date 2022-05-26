@@ -1,12 +1,13 @@
 import { ShowcaseEntry } from "@dendronhq/engine-server";
+import { BacklinksPanelHoverTip } from "./BacklinksPanelHoverTip";
+import { GraphPanelTip } from "./GraphPanelTip";
+import { GraphThemeTip } from "./GraphThemeTip";
 import { IFeatureShowcaseMessage } from "./IFeatureShowcaseMessage";
 import { MeetingNotesTip } from "./MeetingNotesTip";
 import {
   createSimpleTipOfDayMsg,
   createTipOfDayMsgWithDocsLink,
 } from "./TipFactory";
-import { GraphThemeTip } from "./GraphThemeTip";
-import { GraphPanelTip } from "./GraphPanelTip";
 
 const AUTOCOMPLETE_TIP = createSimpleTipOfDayMsg(
   ShowcaseEntry.AutocompleteTip,
@@ -75,4 +76,5 @@ export const ALL_FEATURE_SHOWCASES: IFeatureShowcaseMessage[] = [
   PUBLISH_THEME_LINK,
   new GraphThemeTip(),
   new GraphPanelTip(),
+  new BacklinksPanelHoverTip(),
 ];
