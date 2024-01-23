@@ -1,0 +1,3520 @@
+repo_name: todaypp/dendron
+report_id: 1d7d56fd82214229cb669a64041b9d2e
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T13:18:35+00:00'
+requested_by: kevinslin
+provider: github
+branch: master
+detected_tools_count: 255
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/todaypp/dendron
+  detection_source: Repo Metadata
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  version: 4.7.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-24 22:17:28.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/todaypp/dendron
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/todaypp/dendron
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/package.json
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-06-23 21:50:11.000000000 Z
+- name: Ant Design
+  description: A set of high-quality React components
+  website_url: https://ant.design
+  version: 4.16.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6112/12101536.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-05-16 15:58:11.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/package.json
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-05-18 22:22:22.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: jonathanyeung
+  last_updated_on: 2021-09-14 17:19:37.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 11.1.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-11-04 17:30:33.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/api-server/package.json
+  detection_source: packages/api-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-28 17:39:56.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/package.json
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-11-04 17:30:33.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.1.2
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/package.json
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-11-04 17:30:33.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/package.json
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Tyler Nieman
+  last_updated_on: 2020-11-22 02:26:44.000000000 Z
+- name: AWS Amplify
+  description: JavaScript Open Source Library with React, React Native Extensions
+  website_url: https://github.com/aws/aws-amplify
+  version: 3.8.24
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-05-16 21:43:38.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: babel.config.js
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-23 17:12:51.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/common-all/package.json
+  detection_source: packages/common-all/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-05-22 14:47:45.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/package.json
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-04-11 03:27:15.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/todaypp/dendron
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/.github/workflows/ci-windows-test.yml
+  detection_source: ".github/workflows/ci-windows-test.yml"
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-29 21:31:49.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 25.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-04-11 03:27:15.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/lsp-client/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-24 19:49:35.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/package.json
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-06-23 21:50:11.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/pods-core/package.json
+  detection_source: packages/pods-core/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-12 20:31:42.000000000 Z
+- name: Parcel
+  description: "\U0001F4E6\U0001F680  A fast, zero configuration web application bundler"
+  website_url: https://parceljs.org/
+  version: 1.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/example/package.json
+  detection_source: packages/dendron-design-system/example/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-08-10 18:47:43.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Sentry
+  description: 'See performance issues, fix errors faster, and optimize code health. '
+  website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Exception Monitoring
+  image_url: https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/api-server/package.json
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-09-21 17:27:56.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 7.5.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-test-utils/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-12-10 15:20:29.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/common-all/package.json
+  detection_source: packages/common-all/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-05-22 14:47:45.000000000 Z
+- name: Verdaccio
+  description: A lightweight private npm proxy registry
+  website_url: https://verdaccio.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/9786/pfymFpmu_400x400.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-22 16:34:28.000000000 Z
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Kaan Genç
+  last_updated_on: 2021-10-29 15:51:39.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.46.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/config/webpack.config.js
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/.yarnrc
+  detection_source: ".yarnrc"
+  last_updated_by: kevinslin
+  last_updated_on: 2020-06-03 18:02:53.000000000 Z
+- name: Yeoman
+  description: A set of tools for automating development workflow
+  website_url: http://yeoman.io/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Scaffolding Tools
+  image_url: https://img.stackshare.io/service/853/46ea2dd8b1bdd31a8ba61044cb5b6ebe.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/generator-dendron/package.json
+  detection_source: packages/generator-dendron/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-03-07 17:53:17.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-14 23:09:51.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-09-21 17:27:56.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Parse
+  description: The complete mobile app platform
+  website_url: https://parse.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Mobile Backend
+  image_url: https://img.stackshare.io/service/86/68wTsXcT.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Airtable
+  description: 'Real-time spreadsheet-database hybrid '
+  website_url: https://airtable.com
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Spreadsheets as a Backend
+  image_url: https://img.stackshare.io/service/1512/logo.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/pods-core/package.json
+  detection_source: packages/pods-core/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-04 18:35:07.000000000 Z
+- name: EmailJS
+  description: Send email directly from JavaScript
+  website_url: https://www.emailjs.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/6209/default_082f0619f4d49a25f75896e370cc67c9a3f0a4fe.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/pods-core/package.json
+  detection_source: packages/pods-core/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-02-24 17:21:10.000000000 Z
+- name: Gmail
+  description: A free web-based e-mail service
+  website_url: https://mail.google.com
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: Email Services
+  image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Ora
+  description: Agile task management and visual team collaboration, Ora is your team’s
+    command center with kanban, chat and timers!
+  website_url: https://ora.pm/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-cli/package.json
+  detection_source: packages/dendron-cli/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-07-28 15:30:54.000000000 Z
+- name: Stream
+  description: Build scalable feeds, activity streams &amp; chat in a few hours instead
+    of months.
+  website_url: https://getstream.io/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Activity Feeds as a Service
+  image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/engine-server/package.json
+  detection_source: packages/engine-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-08-17 18:47:55.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Formik
+  description: Build forms in React
+  website_url: https://jaredpalmer.com/formik/
+  version: 2.2.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Web Forms
+  image_url: https://img.stackshare.io/service/8846/preview.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-05-26 20:21:20.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 3.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-02-15 18:19:50.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-07-04 18:20:35.000000000 Z
+- name: Luxon
+  description: Library for working with dates and times in Javascript
+  website_url: https://moment.github.io/luxon/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10330/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/common-all/package.json
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/todaypp/dendron
+  detection_source: Repo Metadata
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-09-09 16:23:38.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Samuel Hobl
+  last_updated_on: 2021-07-08 18:49:51.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-07-14 20:08:45.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: katex
+  website_url: https://github.com/Khan/KaTeX
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6858/15455.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-18 02:36:35.000000000 Z
+- name: rsync
+  description: " Rsync is a simple tool for intelligently syncing local and remote
+    directories"
+  website_url: https://rsync.samba.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4890/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-cli/package.json
+  detection_source: packages/dendron-cli/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-12-28 05:21:39.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.12.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-23 17:12:51.000000000 Z
+- name: "@babel/types"
+  description: Babel Types is a Lodash-esque utility library for AST nodes
+  package_url: https://www.npmjs.com/@babel/types
+  version: 7.13.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-23 17:12:51.000000000 Z
+- name: "@emotion/styled"
+  description: Styled API for emotion
+  package_url: https://www.npmjs.com/@emotion/styled
+  version: 10.0.27
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 16.43.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: "@sentry/node"
+  description: Offical Sentry SDK for Node.js
+  package_url: https://www.npmjs.com/@sentry/node
+  version: 6.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18428/default_9499465ee49aaffadf126149b962e9838bc4a993.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-09-21 17:27:56.000000000 Z
+- name: "@storybook/addon-docs"
+  description: Superior documentation for your components
+  package_url: https://www.npmjs.com/@storybook/addon-docs
+  version: 6.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17835/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: "@storybook/addon-info"
+  description: A Storybook addon to show additional information for your stories
+  package_url: https://www.npmjs.com/@storybook/addon-info
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16414/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 6.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: "@storybook/addons"
+  description: Storybook addons store
+  package_url: https://www.npmjs.com/@storybook/addons
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16200/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 6.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: "@storybook/theming"
+  description: Core Storybook Components
+  package_url: https://www.npmjs.com/@storybook/theming
+  version: 5.3.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17754/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-02 17:35:16.000000000 Z
+- name: "@svgr/webpack"
+  description: SVGR webpack loader
+  package_url: https://www.npmjs.com/@svgr/webpack
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16411/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 11.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/engine-test-utils/package.json
+  last_updated_by: github-actions
+  last_updated_on: 2022-05-24 13:31:43.000000000 Z
+- name: "@types/cors"
+  description: TypeScript definitions for cors
+  package_url: https://www.npmjs.com/@types/cors
+  version: 2.8.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-20 16:38:07.000000000 Z
+- name: "@types/execa"
+  description: Stub TypeScript definitions entry for execa
+  package_url: https://www.npmjs.com/@types/execa
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17463/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: jonathanyeung
+  last_updated_on: 2021-09-14 17:19:37.000000000 Z
+- name: "@types/form-data"
+  description: Stub TypeScript definitions entry for form-data
+  package_url: https://www.npmjs.com/@types/form-data
+  version: 2.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18503/default_aabef48673d7b85e098f65ec3d0fa0b5983de6b5.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/pods-core/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-12-16 00:40:35.000000000 Z
+- name: "@types/fs-extra"
+  description: TypeScript definitions for fs-extra
+  package_url: https://www.npmjs.com/@types/fs-extra
+  version: 9.0.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16170/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/generator-dendron/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-20 16:38:07.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 7.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Harshita Joshi
+  last_updated_on: 2022-05-19 04:30:51.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 26.0.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kaan Barmore-Genç
+  last_updated_on: 2022-03-29 00:18:28.000000000 Z
+- name: "@types/js-yaml"
+  description: TypeScript definitions for js-yaml
+  package_url: https://www.npmjs.com/@types/js-yaml
+  version: 3.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16757/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.168
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-20 16:38:07.000000000 Z
+- name: "@types/minimatch"
+  description: TypeScript definitions for Minimatch
+  package_url: https://www.npmjs.com/@types/minimatch
+  version: 3.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17630/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/lsp-client/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-24 19:49:35.000000000 Z
+- name: "@types/morgan"
+  description: TypeScript definitions for morgan
+  package_url: https://www.npmjs.com/@types/morgan
+  version: 1.9.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18064/image.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-20 16:38:07.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.37
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-09-21 17:27:56.000000000 Z
+- name: "@types/pino"
+  description: TypeScript definitions for pino
+  package_url: https://www.npmjs.com/@types/pino
+  version: 6.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18749/default_1f93b00a0aa6ebc30a3a7957359f1ee2067b51e1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 17.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/example/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 7.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: "@types/sinon"
+  description: TypeScript definitions for Sinon
+  package_url: https://www.npmjs.com/@types/sinon
+  version: 9.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/common-test-utils/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-12-10 15:20:29.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: hfellerhoff
+  last_updated_on: 2021-06-05 16:49:54.000000000 Z
+- name: "@types/through2"
+  description: TypeScript definitions for through2 v
+  package_url: https://www.npmjs.com/@types/through2
+  version: 2.0.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18186/default_9472f2a1c56256064874685c48697eac8a870621.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-15 16:01:34.000000000 Z
+- name: "@types/tmp"
+  description: TypeScript definitions for tmp
+  package_url: https://www.npmjs.com/@types/tmp
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17575/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 15.0.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-cli/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-11-30 19:47:20.000000000 Z
+- name: "@types/yup"
+  description: TypeScript definitions for yup
+  package_url: https://www.npmjs.com/@types/yup
+  version: 0.29.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18670/default_d9dab6271253d9850df2c233b4312e776e118959.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: hfellerhoff
+  last_updated_on: 2021-06-05 16:49:54.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 2.34.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 2.34.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-23 17:12:51.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 6.12.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-05-29 22:27:04.000000000 Z
+- name: antd
+  description: An enterprise-class UI design language and React components implementation
+  package_url: https://www.npmjs.com/antd
+  version: 4.16.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16201/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: viz
+  last_updated_on: 2021-09-20 20:23:27.000000000 Z
+- name: anymatch
+  description: Matches strings against configurable strings
+  package_url: https://www.npmjs.com/anymatch
+  version: 2.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18287/default_2b4f164959c4edb71332bbb8bb8be1f545c646f8.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 25.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: babel-plugin-import
+  description: Component modular import plugin for babel
+  package_url: https://www.npmjs.com/babel-plugin-import
+  version: 1.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-28 21:38:29.000000000 Z
+- name: babel-plugin-named-asset-import
+  description: Babel plugin for named asset imports in Create React App
+  package_url: https://www.npmjs.com/babel-plugin-named-asset-import
+  version: 0.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16401/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: babel-preset-react-app
+  description: Babel preset used by Create React App
+  package_url: https://www.npmjs.com/babel-preset-react-app
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16089/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: bfj
+  description: Big-friendly JSON
+  package_url: https://www.npmjs.com/bfj
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16822/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: camelcase
+  description: 'Convert a dash/dot/underscore/space separated string to camelCase
+    or PascalCase: `foo-bar` → `fooBar`'
+  package_url: https://www.npmjs.com/camelcase
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: case-sensitive-paths-webpack-plugin
+  description: Enforces module path case sensitivity in Webpack
+  package_url: https://www.npmjs.com/case-sensitive-paths-webpack-plugin
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16073/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Samuel Hobl
+  last_updated_on: 2021-07-08 18:49:51.000000000 Z
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 2.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2021-10-01 03:19:05.000000000 Z
+- name: circular-dependency-plugin
+  description: Detect modules with circular dependencies when bundling with webpack
+  package_url: https://www.npmjs.com/circular-dependency-plugin
+  version: 5.2.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17612/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Samuel Hobl
+  last_updated_on: 2021-06-14 21:35:02.000000000 Z
+- name: clipboardy
+  description: Access the system clipboard
+  package_url: https://www.npmjs.com/clipboardy
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17902/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-cli/package.json
+  last_updated_by: Harshita-mindfire
+  last_updated_on: 2022-02-21 12:48:10.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/lsp-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-11-29 18:53:58.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-20 16:38:07.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: dotenv-expand
+  description: Expand environment variables using dotenv
+  package_url: https://www.npmjs.com/dotenv-expand
+  version: 5.1.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16514/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: dtslint
+  description: Runs tests on TypeScript definition files
+  package_url: https://www.npmjs.com/dtslint
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17130/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 18.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-18 02:36:35.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 11.1.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/nextjs-template/package-lock.json
+  detection_source: packages/nextjs-template/package.json
+  last_updated_by: Kaan Barmore-Genç
+  last_updated_on: 2022-04-06 16:39:30.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-18 02:36:35.000000000 Z
+- name: eslint-config-react-app
+  description: ESLint configuration used by Create React App
+  package_url: https://www.npmjs.com/eslint-config-react-app
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16088/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: eslint-plugin-flowtype
+  description: Flowtype linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-flowtype
+  version: 3.13.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15940/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kaan Barmore-Genç
+  last_updated_on: 2022-03-29 00:18:28.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.22.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 24.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 2.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-27 17:38:14.000000000 Z
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/bootstrap/scripts/yarn.lock
+  detection_source: bootstrap/scripts/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-05-28 17:48:44.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: jonathanyeung
+  last_updated_on: 2021-09-14 17:19:37.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: form-data
+  description: A library to create readable "multipart/form-data" streams
+  package_url: https://www.npmjs.com/form-data
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16415/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/pods-core/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-12-16 00:40:35.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-28 17:39:56.000000000 Z
+- name: fuse.js
+  description: Lightweight fuzzy-search
+  package_url: https://www.npmjs.com/fuse.js
+  version: 3.6.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17405/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-08-09 04:26:11.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-06-08 03:30:45.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: googleapis
+  description: Google APIs Client Library for Node.js
+  package_url: https://www.npmjs.com/googleapis
+  version: 88.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/pods-core/package.json
+  last_updated_by: Harshita Joshi
+  last_updated_on: 2021-10-22 07:29:33.000000000 Z
+- name: gray-matter
+  description: Parse front-matter from a string or file
+  package_url: https://www.npmjs.com/gray-matter
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17773/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-08-03 22:43:01.000000000 Z
+- name: gulp-csso
+  description: Minify CSS with CSSO
+  package_url: https://www.npmjs.com/gulp-csso
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17199/default_9fc4b0c75e3fd0ca34b2b1e215b90fd3d79ddde3.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: viz
+  last_updated_on: 2021-09-20 20:23:27.000000000 Z
+- name: gulp-debug
+  description: Debug Vinyl file streams to see what files are run through your Gulp
+    pipeline
+  package_url: https://www.npmjs.com/gulp-debug
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16648/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-14 23:09:51.000000000 Z
+- name: gulp-less
+  description: Less for Gulp
+  package_url: https://www.npmjs.com/gulp-less
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16267/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-14 23:09:51.000000000 Z
+- name: gulp-postcss
+  description: PostCSS gulp plugin
+  package_url: https://www.npmjs.com/gulp-postcss
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16282/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-07-14 23:09:51.000000000 Z
+- name: handlebars
+  description: Handlebars provides the power necessary to let you build semantic templates
+    effectively with no frustration
+  package_url: https://www.npmjs.com/handlebars
+  version: 4.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-24 22:17:28.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-01-29 17:39:09.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: http-status-codes
+  description: Constants enumerating the HTTP status codes
+  package_url: https://www.npmjs.com/http-status-codes
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17527/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-10 22:28:33.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-07-14 20:08:45.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: identity-obj-proxy
+  description: An identity object using ES6 proxies
+  package_url: https://www.npmjs.com/identity-obj-proxy
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: is-url
+  description: Check whether a string is a URL
+  package_url: https://www.npmjs.com/is-url
+  version: 1.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17839/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Harshita Joshi
+  last_updated_on: 2021-11-22 09:01:18.000000000 Z
+- name: isomorphic-fetch
+  description: Isomorphic WHATWG Fetch API, for Node &amp; Browserify
+  package_url: https://www.npmjs.com/isomorphic-fetch
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16185/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-05-23 17:43:01.000000000 Z
+- name: jest-resolve
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-resolve
+  version: 25.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16442/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: jest-watch-typeahead
+  description: Jest plugin for filtering by filename or test name
+  package_url: https://www.npmjs.com/jest-watch-typeahead
+  version: 0.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16646/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kaan Barmore-Genç
+  last_updated_on: 2022-03-29 00:18:28.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 3.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: katex
+  description: Fast math typesetting for the web
+  package_url: https://www.npmjs.com/katex
+  version: 0.13.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18250/default_c6b51515d4a1dde78342d80e969e295cabf381ac.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: klaw
+  description: File system walker with Readable stream interface
+  package_url: https://www.npmjs.com/klaw
+  version: 1.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18501/default_e81b0bd76811f164978fa6f4c4f71e0f1ccf1507.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-28 17:39:56.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 12.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-05-18 02:36:35.000000000 Z
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 5.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-15 16:01:34.000000000 Z
+- name: madge
+  description: Create graphs from module dependencies
+  package_url: https://www.npmjs.com/madge
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18251/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Jonathan Yeung
+  last_updated_on: 2022-01-17 07:29:31.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2021-12-29 01:45:03.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in markdown-it
+    cve_id: CVE-2022-21670
+    cve_url: https://github.com/advisories/GHSA-6vfc-qv3f-vr6c
+    detected_date: Jan 13
+    severity: moderate
+    first_patched: 12.3.2
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 0.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-01-29 17:39:09.000000000 Z
+- name: minimatch
+  description: A glob matcher in javascript
+  package_url: https://www.npmjs.com/minimatch
+  version: 3.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16195/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+  vulnerabilities:
+  - name: minimatch ReDoS vulnerability
+    cve_id: CVE-2022-3517
+    cve_url: https://github.com/advisories/GHSA-f8q6-p94x-37v3
+    detected_date: Oct 21
+    severity: high
+    first_patched: 3.0.5
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-29 18:17:36.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: github-actions[bot]
+  last_updated_on: 2022-03-22 20:53:07.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-04-26 01:47:51.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 7.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Mark Choi
+  last_updated_on: 2022-03-07 10:54:58.000000000 Z
+- name: optimize-css-assets-webpack-plugin
+  description: A Webpack plugin to optimize \ minimize CSS assets
+  package_url: https://www.npmjs.com/optimize-css-assets-webpack-plugin
+  version: 5.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: pino
+  description: Super fast, all natural json logger
+  package_url: https://www.npmjs.com/pino
+  version: 6.13.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16974/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: pino-pretty
+  description: Prettifier for Pino log lines
+  package_url: https://www.npmjs.com/pino-pretty
+  version: 4.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18639/default_f02e96cdbc1c3cf01dabe59b227d3b3961e56b72.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: pnp-webpack-plugin
+  description: Plug'n'play resolver for Webpack
+  package_url: https://www.npmjs.com/pnp-webpack-plugin
+  version: 1.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17014/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: postcss-flexbugs-fixes
+  description: PostCSS plugin This project tries to fix all of flexbug's issues
+  package_url: https://www.npmjs.com/postcss-flexbugs-fixes
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16265/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: postcss-normalize
+  description: Use the parts of normalize.css you need from your browserslist
+  package_url: https://www.npmjs.com/postcss-normalize
+  version: 8.0.1
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17258/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: postcss-preset-env
+  description: Convert modern CSS into something browsers understand
+  package_url: https://www.npmjs.com/postcss-preset-env
+  version: 6.7.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-01-29 17:39:09.000000000 Z
+- name: postcss-safe-parser
+  description: Fault-tolerant CSS parser for PostCSS
+  package_url: https://www.npmjs.com/postcss-safe-parser
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16449/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-cli/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-10 00:03:45.000000000 Z
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.7.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-05-22 14:47:45.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 6.7.3
+- name: query-string
+  description: Parse and stringify URL query strings
+  package_url: https://www.npmjs.com/query-string
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-11-19 21:43:28.000000000 Z
+- name: querystring
+  description: Node's querystring module for all engines
+  package_url: https://www.npmjs.com/querystring
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16418/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-05-18 21:01:32.000000000 Z
+- name: react-app-polyfill
+  description: Polyfills for various browsers including commonly used language features
+  package_url: https://www.npmjs.com/react-app-polyfill
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16437/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-design-system/example/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: react-dev-utils
+  description: Webpack utilities used by Create React App
+  package_url: https://www.npmjs.com/react-dev-utils
+  version: 11.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16112/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: react-ga
+  description: React Google Analytics Module
+  package_url: https://www.npmjs.com/react-ga
+  version: 3.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18260/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/nextjs-template/package-lock.json
+  detection_source: packages/nextjs-template/package.json
+  last_updated_by: viz
+  last_updated_on: 2021-09-22 21:27:38.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 3.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/dendron-next-server/package.json
+  last_updated_by: viz
+  last_updated_on: 2021-09-20 20:23:27.000000000 Z
+- name: react-is
+  description: Brand checking of React Elements
+  package_url: https://www.npmjs.com/react-is
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/engine-test-utils/package.json
+  last_updated_by: github-actions
+  last_updated_on: 2022-05-24 13:31:43.000000000 Z
+- name: redux-logger
+  description: Logger for Redux
+  package_url: https://www.npmjs.com/redux-logger
+  version: 3.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16512/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-frontend/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+- name: rehype-stringify
+  description: Rehype plugin to serialize HTML
+  package_url: https://www.npmjs.com/rehype-stringify
+  version: 8.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Kaan Genc
+  last_updated_on: 2022-01-05 09:53:41.000000000 Z
+- name: remark
+  description: Markdown processor powered by plugins
+  package_url: https://www.npmjs.com/remark
+  version: 12.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Harshita-mindfire
+  last_updated_on: 2022-05-24 15:41:47.000000000 Z
+- name: remark-parse
+  description: Remark plugin to parse Markdown
+  package_url: https://www.npmjs.com/remark-parse
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17485/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Harshita-mindfire
+  last_updated_on: 2022-05-24 15:41:47.000000000 Z
+- name: remark-rehype
+  description: Remark plugin that turns markdown into HTML to support rehype
+  package_url: https://www.npmjs.com/remark-rehype
+  version: 8.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Harshita-mindfire
+  last_updated_on: 2022-05-24 15:41:47.000000000 Z
+- name: remark-stringify
+  description: Remark plugin to compile Markdown
+  package_url: https://www.npmjs.com/remark-stringify
+  version: 8.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18614/default_b831eda26de3ba8a4563abf7f2a3af117da4db50.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Harshita-mindfire
+  last_updated_on: 2022-05-24 15:41:47.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  version: 1.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: resolve-url-loader
+  description: Webpack loader that resolves relative paths in url
+  package_url: https://www.npmjs.com/resolve-url-loader
+  version: 3.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16468/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.6.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-28 17:39:56.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 10.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-02-10 19:28:57.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-11 15:49:49.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: simple-git
+  description: Simple GIT interface for node.js
+  package_url: https://www.npmjs.com/simple-git
+  version: 3.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16567/default_d6ff16957d0b119d673d5ec0eb21b08d8d5008f4.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-next-server/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-18 00:03:30.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution in simple-git
+    cve_id: CVE-2022-25860
+    cve_url: https://github.com/advisories/GHSA-9w5j-4mwv-2wj8
+    detected_date: Jan 27
+    severity: critical
+    first_patched: 3.16.0
+  - name: simple-git vulnerable to Remote Code Execution when enabling the ext transport
+      protocol
+    cve_id: CVE-2022-25912
+    cve_url: https://github.com/advisories/GHSA-9p95-fxvg-qgq2
+    detected_date: Dec 8
+    severity: high
+    first_patched: 3.15.0
+- name: size-limit
+  description: CLI tool for Size Limit
+  package_url: https://www.npmjs.com/size-limit
+  version: 4.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17177/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: Mark Hyunik Choi
+  last_updated_on: 2022-01-07 18:05:13.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: standard-version
+  description: Replacement for `npm version` with automatic CHANGELOG generation
+  package_url: https://www.npmjs.com/standard-version
+  version: 8.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: jonathanyeung
+  last_updated_on: 2021-08-26 17:07:53.000000000 Z
+- name: string
+  description: String contains methods that aren't included in the vanilla JavaScript
+    string such as escaping html
+  package_url: https://www.npmjs.com/string
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: stringify
+  description: Browserify middleware to be able to require
+  package_url: https://www.npmjs.com/stringify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18492/default_9c45ef918d27804fb2a0b2f31e341286bc3bc5d7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: through2
+  description: A tiny wrapper around Node.js streams.Transform
+  package_url: https://www.npmjs.com/through2
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15948/default_fdb56d0865cbc86d9157d5e33f9313d760ed0e83.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-10 22:28:33.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  version: 0.0.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/common-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-05-29 22:27:04.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/lsp-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-09-24 22:42:34.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/api-server/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-09-21 17:27:56.000000000 Z
+- name: ts-pnp
+  description: Plug'n'play resolver for TypeScript
+  package_url: https://www.npmjs.com/ts-pnp
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17211/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: tsdx
+  description: Zero-config TypeScript package development
+  package_url: https://www.npmjs.com/tsdx
+  version: 0.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16920/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.0.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-design-system/package.json
+  last_updated_by: 8brandon
+  last_updated_on: 2021-04-04 04:00:10.000000000 Z
+- name: tslint-config-prettier
+  description: Do you wanna use tslint and prettier without conflicts? tslint-config-prettier
+    disables all conflicting rules that may cause such problems
+  package_url: https://www.npmjs.com/tslint-config-prettier
+  version: 1.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16083/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/yarn.lock
+  detection_source: packages/common-all/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2022-02-08 04:07:49.000000000 Z
+- name: unified
+  description: Interface for processing text using syntax trees
+  package_url: https://www.npmjs.com/unified
+  version: 9.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17259/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-08-17 18:47:55.000000000 Z
+- name: unist-util-visit
+  description: Recursively walk over unist nodes
+  package_url: https://www.npmjs.com/unist-util-visit
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17139/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/engine-server/package.json
+  last_updated_by: Kaan Genç
+  last_updated_on: 2022-03-10 22:28:33.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 4.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: jonathanyeung
+  last_updated_on: 2021-12-02 17:52:57.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/lsp-server/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-11-29 18:53:58.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: github-actions
+  last_updated_on: 2022-05-24 13:31:43.000000000 Z
+- name: webpack-manifest-plugin
+  description: Webpack plugin for generating asset manifests
+  package_url: https://www.npmjs.com/webpack-manifest-plugin
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16158/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin Lin
+  last_updated_on: 2021-11-09 09:38:32.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 5.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/plugin-core/yarn.lock
+  detection_source: packages/plugin-core/package.json
+  last_updated_by: jonathanyeung
+  last_updated_on: 2021-12-02 17:52:57.000000000 Z
+- name: workbox-webpack-plugin
+  description: A plugin for your Webpack build process
+  package_url: https://www.npmjs.com/workbox-webpack-plugin
+  version: 5.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16470/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-plugin-views/yarn.lock
+  detection_source: packages/dendron-plugin-views/package.json
+  last_updated_by: Kevin
+  last_updated_on: 2021-10-31 21:37:47.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 15.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/dendron-design-system/yarn.lock
+  detection_source: packages/dendron-cli/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-07-28 16:12:06.000000000 Z
+- name: yeoman-generator
+  description: Rails-inspired generator system that provides scaffolding for your
+    apps
+  package_url: https://www.npmjs.com/yeoman-generator
+  version: 3.2.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15971/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/packages/generator-dendron/yarn.lock
+  detection_source: packages/generator-dendron/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2021-03-07 17:53:17.000000000 Z
+- name: yo
+  description: CLI tool for running Yeoman generators
+  package_url: https://www.npmjs.com/yo
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/todaypp/dendron/blob/master/vendor/dendron-remark-math/package.json
+  detection_source: vendor/dendron-remark-math/package.json
+  last_updated_by: kevinslin
+  last_updated_on: 2020-10-07 16:00:49.000000000 Z
